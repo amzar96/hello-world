@@ -1,2 +1,3 @@
-# hello-world
-This is sample hello world deployment on Github Pages
+# Hello World
+
+This is sample of using [Github Pages](https://pages.github.com/) with a cat!
